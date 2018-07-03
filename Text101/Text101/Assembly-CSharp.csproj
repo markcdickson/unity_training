@@ -62,6 +62,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AdventureGame.cs" />
+    <Compile Include="Assets\State.cs" />
+    <None Include="Assets\StoryBeginning.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/Git/Text101/Text101/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
