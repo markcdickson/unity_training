@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: E4 - As Brown As...
+  m_EditorClassIdentifier: 
+  storyText: "It feels like a mighty big promise, but you woke up early enough that
+    it feels like you have plenty of time to do this right.\r\n\r\nYou rub your hands
+    together in anticipation and the jar of instant coffee catches your eye.\r\n\r\nWhat
+    do you do?\r\n1. Make a cup of coffee and bring it back into the bedroom\r\n2.
+    Get on with breakfast"
+  nextStates:
+  - {fileID: 11400000, guid: 52cb20318b214204e9378ca35471f2cc, type: 2}
+  - {fileID: 11400000, guid: a88be8e5509645a4a98b1f6128daaab3, type: 2}
+  dissatisfactionScore: 1
+  unattendedScore: 0

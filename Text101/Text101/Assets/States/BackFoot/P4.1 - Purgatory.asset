@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: P4.1 - Purgatory
+  m_EditorClassIdentifier: 
+  storyText: "A half-stifled yawn comes as two legs poke out of the duvet right next
+    to you in what sounds like a very satisfying stretch.\r\n\r\n\"It's alright,\"
+    comes the voice.\r\n\r\n\"I'll get right on it now,\" you promise. \"Maybe pancakes?\"\r\n\r\nThe
+    legs disappear again.\r\n\r\n\"Sounds perfect.\"\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 95fb4b89d738f9d4184b0f4f8a19642c, type: 2}

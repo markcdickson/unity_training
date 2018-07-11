@@ -292,8 +292,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.6, y: -144.3}
-  m_SizeDelta: {x: 1555.4, y: 587}
+  m_AnchoredPosition: {x: 20.4, y: -341.1}
+  m_SizeDelta: {x: 1577, y: 980.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &731448158
 MonoBehaviour:
@@ -438,8 +438,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -4.4, y: -147}
-  m_SizeDelta: {x: 1331.1, y: 633.5}
+  m_AnchoredPosition: {x: -4.4, y: -160.2}
+  m_SizeDelta: {x: 1331.1, y: 657.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &895201127
 MonoBehaviour:
@@ -611,3 +611,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 731448158}
+  startingState: {fileID: 11400000, guid: d752b969b2617a245b20b09ee628ac37, type: 2}
+  endStates:
+  - {fileID: 11400000, guid: 278fd5dd1f4d5784a8d8b41f238c00bc, type: 2}
+  - {fileID: 11400000, guid: c6bf181119680d2499457b1ce07672ab, type: 2}
+  - {fileID: 11400000, guid: 65fa0ddffcb42c642b985cb3da628489, type: 2}
+  - {fileID: 11400000, guid: b2201b8789b53b44c934133ddf62f918, type: 2}
+  - {fileID: 11400000, guid: c07e36579e8ab704f914c7c4553bcdff, type: 2}

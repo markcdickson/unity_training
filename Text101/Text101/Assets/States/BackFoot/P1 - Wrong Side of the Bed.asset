@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: P1 - Wrong Side of the Bed
+  m_EditorClassIdentifier: 
+  storyText: "You blink.\r\n\r\nYou wake up drenched in sweat. The temperature of
+    your room has increased exponentially and you impulsively throw off the covers
+    to escape.\r\n\r\nA mumble sneaks out from underneath the heap of material that
+    was once your duvet.\n\n\"Whrthell...?\"\r\n\r\nUh oh. You temporarily forgot
+    they were there.\r\n\r\n\"Whtdiyudo?\"\r\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 9762f2b975e2b2f40b0af07c51b3467c, type: 2}
+  dissatisfactionScore: 5
+  unattendedScore: 0

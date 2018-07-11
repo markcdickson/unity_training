@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: E6 - Well-Intentioned
+  m_EditorClassIdentifier: 
+  storyText: "With a fresh cup of coffee in your hands, grimacing slightly at the
+    smell, you head upstairs to the bedroom.\r\n\r\nAs you shoulder into the bedroom
+    door, you hit it slightly too hard and the handle bangs against the wall behind
+    it.\r\n\r\nYour partner bolts up, gasping.\r \"Wusgoinon?\"\r\n\r\n\"Sorry, sorry.
+    It's just me,\" you whisper. \"Just bringing you a coffee.\"\r\n\n\"Fucking hell,\"
+    they murmur, head slamming back into the pillow. \"What time is it?\"\r\n\n\r1.
+    Continue...."
+  nextStates:
+  - {fileID: 11400000, guid: 0bd9ce1aceb64544f94301d0d75a9b4c, type: 2}

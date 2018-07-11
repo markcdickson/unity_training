@@ -15,5 +15,8 @@ MonoBehaviour:
     where you were being hunted. You don't know remember what you were being chased
     by, but you can still feel the residual heat on your left arm. As you glance over
     at it - still half-expecting it to be ablaze - you see a beam of sunlight hitting
-    it, peaking in from the corner of the blinds.\r\n\r\nWhat do you do next?\r\nA)
-    Roll over and try to go back to sleep\r\nB) Check the time on your phone"
+    it, peaking in from the corner of the blinds.\r\n\r\nWhat do you do next?\r\n1.
+    Roll over and try to go back to sleep\r\n2. Check the time on your phone"
+  nextStates:
+  - {fileID: 11400000, guid: fc5d36388618c1c41b01bd9ba9fa1634, type: 2}
+  - {fileID: 11400000, guid: aa88c4e28f0a78d49af1c01f4b2523eb, type: 2}

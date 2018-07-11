@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: P2.5 - Socked
+  m_EditorClassIdentifier: 
+  storyText: "Without making a noise, you decide to avoid the potential conflict that
+    would arise by admitting to carelessly throwing your duvet and sneak out of the
+    room.\r\n\r\nYou reach out for your phone, tuck it into your pocket and wait for
+    the duvet to stop moving.\r\n\r\nAs soon as it does, you gingerly raise a foot
+    and step over the heap of clean laundry that lies piled on the floor from the
+    night before. The next step takes you over the creaky floorboard and you reach
+    for the corner of the bedroom door.\r\n\r\nYou flinch as you hear: \"What do you
+    think you're doing?\"\r\n\r\n1. Continue...."
+  nextStates:
+  - {fileID: 11400000, guid: e58f65058451e5049bb2eeb5e48d1297, type: 2}

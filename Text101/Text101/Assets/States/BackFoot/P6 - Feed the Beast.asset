@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: P6 - Feed the Beast
+  m_EditorClassIdentifier: 
+  storyText: "Clutching a steaming cup of hot coffee in both hands, you gently lean
+    into the bedroom door with one shoulder.\r\n\r\nPropped up against a pillow, you
+    see the love of your life casually swiping on their phone. As the door opens,
+    they turn to you and smile.\r\n\r\n\"Oh wow. Thank you.\"\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 7e76d6790b126ff4ca27235baabbe89f, type: 2}

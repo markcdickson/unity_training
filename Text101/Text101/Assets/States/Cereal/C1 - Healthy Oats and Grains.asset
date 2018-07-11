@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: C1 - Healthy Oats and Grains
+  m_EditorClassIdentifier: 
+  storyText: "Opting to go for the quick and easy option, you grab two bowls and fill
+    them to the brim with frosted flakes.  Grabbing the bottle from the fridge, you
+    drown the cereal in an ocean of milk.\r\n\r\nYou reach under the counter and take
+    the serving tray, hoping to spruce up the blandness of your decision with the
+    floral - if slightly battered - pattern.\r\n\r\nLugging the tray reluctantly upstairs,
+    you lean backwards into the bedroom door.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 48afa64c7ac5a5443b3f8ab5384eac0b, type: 2}
+  dissatisfactionScore: 4
+  unattendedScore: 0
+  endState: 1

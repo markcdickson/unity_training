@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: P3.1 - Second Helpings
+  m_EditorClassIdentifier: 
+  storyText: "\"I'm sorry,\" you reply. \"I rolled over to get a few minutes more
+    sleep and then suddenly...\"\r\n\r\nYou hear a scoff from the bed.\r\n\r\n\"Typical.
+    I don't know why I expected you to change.\"\r\n\r\nFor a brief second, you get
+    a flash of that nightmare you just awoke from; it's a strange sense of dej\xE1
+    vu.\r\n\r\n\"You went out drinking again last night, didn't you? I heard you come
+    in late.\"\r\n\r\nChastened, you duck out of the room and head towards the kitchen.\r\n\r\n1.
+    Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 95fb4b89d738f9d4184b0f4f8a19642c, type: 2}
+  dissatisfactionScore: 1
+  unattendedScore: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: E1 - Early Bird
+  m_EditorClassIdentifier: 
+  storyText: "As your bleary eyes focus on your phone, you see the big, bold numbers
+    staring back at you.\r\n\r\n\"8:16am\"\r\n\r\nAs you start to wake up more, you
+    remember that you promised last night that you'd make your partner breakfast.
+    You glance over and see them still sound asleep, breathing peacefully.\r\n\r\nWhat
+    do you do?\r\n\r\n1. Lie back down and browse your phone for a second.\r\n\r2.
+    Get up and get started on breakfast"
+  nextStates:
+  - {fileID: 11400000, guid: fc5d36388618c1c41b01bd9ba9fa1634, type: 2}
+  - {fileID: 11400000, guid: b6066f1c7b8ee884da55d9d21d78d0a7, type: 2}
