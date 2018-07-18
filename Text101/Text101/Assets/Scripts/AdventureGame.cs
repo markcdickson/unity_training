@@ -28,13 +28,12 @@ public class AdventureGame : MonoBehaviour {
         var nextStates = currentState.getNextStates();
         var keyPressed = Input.GetKeyDown(KeyCode.Alpha1) || Input.GetKeyDown(KeyCode.Alpha2);
 
-        if (Input.GetKeyDown(KeyCode.Alpha1))
+        for(int index = 0; index < nextStates.Length; index++)
         {
-            currentState = nextStates[0];
-        }
-        else if(Input.GetKeyDown(KeyCode.Alpha2))
-        {
-            currentState = nextStates[1];
+            if (Input.GetKeyDown(KeyCode.Alpha1 + index))
+            {
+                currentState = nextStates[index];
+            }
         }
     }
 }
