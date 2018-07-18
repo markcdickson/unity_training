@@ -16,6 +16,6 @@ MonoBehaviour:
     out the bag of flour. As you glance into the bag, it looks almost empty, but it
     looks as though you'll probably have enough.\r\n\r\nYou decide that the bacon
     will probably take longer, so you grab that first.\r\n\r\n1. Continue..."
-  nextStates: []
-  dissatisfactionScore: 0
-  unattendedScore: 0
+  nextStates:
+  - {fileID: 11400000, guid: d619d4ac1a7fb084b995b859207ff055, type: 2}
+  abandoned: 0

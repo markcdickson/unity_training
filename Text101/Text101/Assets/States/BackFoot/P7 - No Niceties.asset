@@ -13,8 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "As much as you want to, you know that there's no time for niceties.\r\n\r\nYou
     take a closer look at the ingredients and start to think about what you're going
-    to make.\r\n\r\n1. Continue..."
+    to make.\r\n\nWith all of the time you've already wasted this morning, you think
+    it best to just grab some cereal.\n\r\n1. Continue..."
   nextStates:
-  - {fileID: 11400000, guid: e2c94665e4b02fc46a99d8a560e6782c, type: 2}
-  dissatisfactionScore: 1
-  unattendedScore: 0
+  - {fileID: 11400000, guid: 25b67363620e0be4d92ab70fddef8f5d, type: 2}
+  abandoned: 0

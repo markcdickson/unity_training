@@ -15,6 +15,8 @@ MonoBehaviour:
     table next to them.\r\n\r\n\"What the hell are you doing waking me up so early?\"\n\r\"Making
     you breakfast, as promised.\"\r\n\r\"Oh.\"\r\n\r\nThere's a brief pause.\r \r\"Sorry.\"\r\n\n\r\"It's
     alright,\" you answer. You pull the door closed behind you and head back downstairs
-    to the kitchen.\r\n\r\n1. Continue...."
+    to the kitchen.\r\n\nYou know that pancakes and back is your partner's favourite,
+    so you decide to splash out.\n\r\n1. Continue...."
   nextStates:
-  - {fileID: 11400000, guid: e2c94665e4b02fc46a99d8a560e6782c, type: 2}
+  - {fileID: 11400000, guid: 29f0c21eb1246034bae7bc3b67d95d77, type: 2}
+  abandoned: 0

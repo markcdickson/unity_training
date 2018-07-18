@@ -13,12 +13,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Opting to go for the quick and easy option, you grab two bowls and fill
     them to the brim with frosted flakes.  Grabbing the bottle from the fridge, you
-    drown the cereal in an ocean of milk.\r\n\r\nYou reach under the counter and take
-    the serving tray, hoping to spruce up the blandness of your decision with the
-    floral - if slightly battered - pattern.\r\n\r\nLugging the tray reluctantly upstairs,
-    you lean backwards into the bedroom door.\r\n\r\n1. Continue..."
+    drown the cereal in milk.\r\n\r\nYou reach under the counter and take the serving
+    tray, hoping to spruce up the blandness of your decision with the floral - if
+    slightly battered - pattern.\r\n\r\nLugging the tray reluctantly upstairs, you
+    lean backwards into the bedroom door.\r\n\nDo you...\n\r\n1. Lean into the door\n2.
+    Knock"
   nextStates:
+  - {fileID: 11400000, guid: a46b72bd9506cc64c9d35bc06ee40767, type: 2}
   - {fileID: 11400000, guid: 48afa64c7ac5a5443b3f8ab5384eac0b, type: 2}
-  dissatisfactionScore: 4
-  unattendedScore: 0
-  endState: 1
+  abandoned: 0

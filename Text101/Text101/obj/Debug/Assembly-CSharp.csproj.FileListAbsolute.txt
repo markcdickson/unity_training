@@ -1,0 +1,2 @@
+E:\Git\Text101\Text101\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Git\Text101\Text101\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

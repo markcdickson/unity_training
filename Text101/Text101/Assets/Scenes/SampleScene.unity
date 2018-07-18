@@ -218,7 +218,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 41, y: 363}
+  m_AnchoredPosition: {x: -4.4, y: 353}
   m_SizeDelta: {x: 1812.3, y: 176.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &645786039
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0.59607846, g: 0.69803923, b: 0.14901961, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -241,13 +241,13 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 104a573f7227f984cb4079726bee25b7, type: 3}
     m_FontSize: 150
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 1
-    m_MaxSize: 150
-    m_Alignment: 3
+    m_MaxSize: 250
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -315,11 +315,11 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: ced3decad8c252b4282515636e7ebf65, type: 3}
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
+    m_MinSize: 3
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -453,7 +453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.084905684, g: 0, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -612,9 +612,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 731448158}
   startingState: {fileID: 11400000, guid: d752b969b2617a245b20b09ee628ac37, type: 2}
-  endStates:
-  - {fileID: 11400000, guid: 278fd5dd1f4d5784a8d8b41f238c00bc, type: 2}
-  - {fileID: 11400000, guid: c6bf181119680d2499457b1ce07672ab, type: 2}
-  - {fileID: 11400000, guid: 65fa0ddffcb42c642b985cb3da628489, type: 2}
-  - {fileID: 11400000, guid: b2201b8789b53b44c934133ddf62f918, type: 2}
-  - {fileID: 11400000, guid: c07e36579e8ab704f914c7c4553bcdff, type: 2}

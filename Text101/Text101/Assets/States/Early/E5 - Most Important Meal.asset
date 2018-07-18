@@ -13,6 +13,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "Breakfast is the most important meal of the day - there's no way you're
     risking getting this wrong. Besides, it's probably too early to wake them up,
-    no matter how well-intentioned the gesture is.\r\n\r\n1. Continue...."
+    no matter how well-intentioned the gesture is.\r\n\nWith all of the time you have,
+    you decide to make pancakes and bacon.\n\r\n1. Continue...."
   nextStates:
-  - {fileID: 11400000, guid: e2c94665e4b02fc46a99d8a560e6782c, type: 2}
+  - {fileID: 11400000, guid: 29f0c21eb1246034bae7bc3b67d95d77, type: 2}
+  abandoned: 0

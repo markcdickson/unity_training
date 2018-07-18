@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: C4 - Still Hope
+  m_EditorClassIdentifier: 
+  storyText: "\"I'm sorry.\"\r\n\r\nYou turn to your right and take your partner's
+    hands.\r\n\r\n\"I'm really sorry. I don't know what I was thinking with this.
+    I promised you a great breakfast and then I just brought you fucking cereal.\"\r\n\r\nThey
+    turn and smile thinly at you.\r\n\r\n\"I was expecting something slightly more...substantial.\"\r\n\r\n\"Let
+    me take you out tonight,\" you interject.\r\n\r\nThe smile broadens.\r\n\r\n1.
+    Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: c07e36579e8ab704f914c7c4553bcdff, type: 2}
+  abandoned: 0

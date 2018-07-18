@@ -19,5 +19,6 @@ MonoBehaviour:
   nextStates:
   - {fileID: 11400000, guid: 52cb20318b214204e9378ca35471f2cc, type: 2}
   - {fileID: 11400000, guid: a88be8e5509645a4a98b1f6128daaab3, type: 2}
-  dissatisfactionScore: 1
+  dissatisfactionScore: 0
   unattendedScore: 0
+  endState: 0

@@ -11,9 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
   m_Name: End 1.4 Love is Murder
   m_EditorClassIdentifier: 
-  storyText: End 1.4
+  storyText: 'As the fire surrounds you, you refuse to move, oddly resigned to your
+    fate.
+
+
+    As you see the flames start to lick around your feet, you''re reminded of that
+    dream you had last night. You''re afraid, but oddly forlorn.
+
+
+    You don''t scream; you worship the flame.
+
+
+    1. End'
   nextStates:
   - {fileID: 11400000, guid: c9946428f5abd064bbd4cc729cb389e9, type: 2}
-  dissatisfactionScore: 0
-  unattendedScore: 0
-  endState: 0

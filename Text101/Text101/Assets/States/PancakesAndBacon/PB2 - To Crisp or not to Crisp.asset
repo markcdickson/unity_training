@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: PB2 - To Crisp or not to Crisp
+  m_EditorClassIdentifier: 
+  storyText: "Grabbing a sharp knife, you pierce the packet of bacon and tip the rashers
+    out onto a plate. It is at this point that you notice how thick each rasher actually
+    is.\r\n\r\nYou can't remember how your partner feels about their bacon. You could
+    slice the bacon to make it thinner, but that would take longer.\r\n\r\nHow do
+    you want to cook the bacon?\r\n\r\n1. Thick (+0 minutes)\r\n2. Thin (+10 minutes)"
+  nextStates:
+  - {fileID: 11400000, guid: 5d71148a17038d64a90493c443c1968b, type: 2}
+  - {fileID: 11400000, guid: dba541b087e899347a2fb2054752014b, type: 2}
+  abandoned: 0

@@ -11,9 +11,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
   m_Name: End 1.5 - Chaotic Neutral
   m_EditorClassIdentifier: 
-  storyText: End 1.5
+  storyText: 'The fact that you''re able to own up to your mistakes shows your partner
+    how much you''re willing to grow.
+
+
+    You both know that things aren''t the best right now: you''ve been going through
+    a lot at work and it''s beginning to show in your personal life through the stress
+    and the "I''ll just have a drink with dinner".
+
+
+    But you know that it''s not too late to save this relationship.
+
+
+    1. End'
   nextStates:
   - {fileID: 11400000, guid: c9946428f5abd064bbd4cc729cb389e9, type: 2}
-  dissatisfactionScore: 0
-  unattendedScore: 0
-  endState: 0

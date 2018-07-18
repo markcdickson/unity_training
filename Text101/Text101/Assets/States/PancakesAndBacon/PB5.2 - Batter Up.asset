@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: PB5.2 - Batter Up
+  m_EditorClassIdentifier: 
+  storyText: "Quickly pulling the giant mixing bowl from the cupboard that it spends
+    over 80% of its life in, you chuck in flour, eggs and milk into one bundle and
+    begin to mix it.\r\n\r\nIt starts to clump, but you don't know where the whisk
+    is.\r\n\r\nRummaging through a bunch of the drawers, you find it wedged in a back
+    corner and go to town on the mixture; with your extreme upper body strength, this
+    is no trouble for you.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: a51054cbc26b960429fdc1b28bbc1112, type: 2}

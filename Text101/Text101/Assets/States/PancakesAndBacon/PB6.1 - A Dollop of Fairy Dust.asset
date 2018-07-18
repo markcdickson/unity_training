@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: PB6.1 - A Dollop of Fairy Dust
+  m_EditorClassIdentifier: 
+  storyText: "You grab the large frying pan and squeeze it onto the back corner, squeezing
+    in a bit of oil into it as you do so.\r\n\r\nFour big dollops of batter later
+    and it quickly begins to sizzle.\r\n\r\nWhat's the next step?\r\n\r\n1. Get the
+    plates out\r\n2. Keep an eye on the pancakes"
+  nextStates:
+  - {fileID: 11400000, guid: 64ee49764ba64be46893d5eb7d3c2595, type: 2}
+  - {fileID: 11400000, guid: 1197103212e951145b10efa8b0d13ec5, type: 2}

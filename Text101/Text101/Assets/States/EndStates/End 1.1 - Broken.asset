@@ -11,9 +11,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
   m_Name: End 1.1 - Broken
   m_EditorClassIdentifier: 
-  storyText: End 1.1
+  storyText: 'As you watch your partner walk out the door, you don''t even bother
+    to pull yourself to your feet; you deserve this wholeheartedly.
+
+
+    This might be the most recent time that you''ve fucked up, but it certainly won''t
+    be the last and the both of you know it. They''re better off without you and you''re
+    better off here.
+
+
+    On the floor. Covered in cereal and spoiled milk.
+
+
+    1. End'
   nextStates:
   - {fileID: 11400000, guid: c9946428f5abd064bbd4cc729cb389e9, type: 2}
-  dissatisfactionScore: 0
-  unattendedScore: 0
-  endState: 0

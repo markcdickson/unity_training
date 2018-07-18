@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: StartingState
   m_EditorClassIdentifier: 
   storyText: "Your eyes snap open. Your heart races.\r\n\r\nYou wake from a nightmare
-    where you were being hunted. You don't know remember what you were being chased
-    by, but you can still feel the residual heat on your left arm. As you glance over
+    where you were being hunted. You don't remember what you were being chased by,
+    but you can still feel the residual heat on your left arm. As you glance over
     at it - still half-expecting it to be ablaze - you see a beam of sunlight hitting
     it, peaking in from the corner of the blinds.\r\n\r\nWhat do you do next?\r\n1.
     Roll over and try to go back to sleep\r\n2. Check the time on your phone"

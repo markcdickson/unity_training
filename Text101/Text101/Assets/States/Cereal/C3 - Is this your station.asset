@@ -11,10 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
   m_Name: C3 - Is this your station
   m_EditorClassIdentifier: 
-  storyText: "You both sit in silence as you eat your cereal.\r\n\r\nIt's not particularly
-    offensive, but you can feel ti dissatisfaction coming from your right.\r\n\r\nWhat
-    do you do?\r\n\r\n1. Apologise for fucking up with breakfast\r\n2. Silently grab
-    the bowls and bring them downstairs"
-  nextStates: []
-  dissatisfactionScore: 0
-  unattendedScore: 0
+  storyText: "After you knock and they let you in, you both sit in silence as you
+    eat your cereal.\r\n\r\nIt's not particularly offensive, but you can feel ti dissatisfaction
+    coming from your right.\r\n\r\nWhat do you do?\r\n\r\n1. Apologise for fucking
+    up with breakfast\r\n2. Silently grab the bowls and bring them downstairs"
+  nextStates:
+  - {fileID: 11400000, guid: 4944e071810087640b3e96e9756c6e93, type: 2}
+  - {fileID: 11400000, guid: 01802da4a509d4542b0a595ba354dd64, type: 2}
+  abandoned: 0

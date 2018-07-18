@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 109d4311fa7199c4cb77ece3106b8ff6, type: 3}
+  m_Name: PB4 - Thicc AF
+  m_EditorClassIdentifier: 
+  storyText: "There's no time to think about slicing each individual rasher into two
+    - that would be absolutely ridiculous with the timescale that you have.\r\n\r\nYou
+    pull the shallow frying pan out of the cupboard and one look at it will tell you
+    that it's not going to be big enough to hold all of this bacon at once.\r\n\r\nWhat
+    do you do?\r\n\r\n1. Chuck it all in the pan at once and focus on the pancakes\r\n2.
+    Carefully cook the bacon in batches and then focus on the pancakes"
+  nextStates:
+  - {fileID: 11400000, guid: 22d748df9ee6f8841be0f45f0aef227a, type: 2}
+  - {fileID: 11400000, guid: ae11b44bbcc25234196cb4104f36b8cb, type: 2}
+  abandoned: 0

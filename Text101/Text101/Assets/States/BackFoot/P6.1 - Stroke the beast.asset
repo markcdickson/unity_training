@@ -18,4 +18,4 @@ MonoBehaviour:
     get started on breakfast.\"\r\n\r\nThey smile even wider. You turn and return
     to the kitchen.\r\n\r\n1. Continue..."
   nextStates:
-  - {fileID: 11400000, guid: e2c94665e4b02fc46a99d8a560e6782c, type: 2}
+  - {fileID: 11400000, guid: 25b67363620e0be4d92ab70fddef8f5d, type: 2}
