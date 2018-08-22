@@ -169,7 +169,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!61 &394387223
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -230,6 +230,7 @@ GameObject:
   - component: {fileID: 452108637}
   - component: {fileID: 452108639}
   - component: {fileID: 452108640}
+  - component: {fileID: 452108641}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -290,7 +291,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 452108636}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.43, y: 3.32, z: 0}
+  m_LocalPosition: {x: 2.77, y: 0.63, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -347,6 +348,20 @@ PolygonCollider2D:
       - {x: 1.28, y: -0.32}
       - {x: 1.28, y: 0.05277109}
       - {x: 1.0371511, y: 0.16029048}
+--- !u!114 &452108641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 452108636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc479f595346c64791b8cbc65ff2a6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screenMaxX: 15
+  screenMinX: 1
+  screenSize: 16
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,6 +998,7 @@ GameObject:
   - component: {fileID: 1385892482}
   - component: {fileID: 1385892484}
   - component: {fileID: 1385892485}
+  - component: {fileID: 1385892486}
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -1042,8 +1058,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1385892481}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.44, y: 11.23, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.75, y: 1.18, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1084,6 +1100,20 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0.02}
   serializedVersion: 2
   m_Radius: 0.27
+--- !u!114 &1385892486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1385892481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd0b2e742f230644a2973ddc2745acf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  paddle: {fileID: 452108641}
+  xPush: 2
+  yPush: 15
 --- !u!1 &1879272669
 GameObject:
   m_ObjectHideFlags: 0
